@@ -94,7 +94,7 @@ header nav ul li a {
     width: 1200px;
 
     /* Background */
-    background-image: url("/resources/images/img-mission-background.jpg");
+    background-image: url("../images/img-mission-background.jpg");
 }
 
 #mission .overlay {
