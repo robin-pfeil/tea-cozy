@@ -26,6 +26,11 @@ main {
     align-items: center;
 }
 
+.flex-gap {
+    gap: 1rem;
+}
+
+
 /* === Typography === */
 
 body {
