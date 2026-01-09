@@ -45,3 +45,12 @@ header {
 header .logo {
     height: 50px;
 }
+
+header nav ul {
+    /* Position & Layout */
+    display: flex;
+    gap: 2rem;
+
+    /* Visuals */
+    list-style: none;
+}
