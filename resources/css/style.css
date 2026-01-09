@@ -25,11 +25,11 @@ header {
     z-index: 10;
     top: 0;
 
+    display: flex;
     justify-content: space-between;
     align-items: center;
 
-    /* Display and Visibility */
-    display: flex;
+    /* Visibility */
     opacity: 0.9;
 
     /* Box model */
