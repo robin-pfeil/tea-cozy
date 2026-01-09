@@ -41,3 +41,7 @@ header {
     /* Background */
     background-color: black;
 }
+
+header .logo {
+    height: 50px;
+}
