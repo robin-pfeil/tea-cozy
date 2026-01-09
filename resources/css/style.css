@@ -71,3 +71,15 @@ header nav ul li a {
     color: seashell;
     text-decoration: underline;
 }
+
+
+/* === Mission Section === */
+
+#mission {
+    /* Box model */
+    height: 700px;
+    width: 1200px;
+
+    /* Background */
+    background-image: url("/resources/images/img-mission-background.jpg");
+}
