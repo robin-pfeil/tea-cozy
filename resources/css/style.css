@@ -54,3 +54,9 @@ header nav ul {
     /* Visuals */
     list-style: none;
 }
+
+header nav ul li a {
+    /* Typography */
+    color: seashell;
+    text-decoration: underline;
+}
