@@ -91,3 +91,12 @@ header nav ul li a {
     /* Background */
     background-image: url("/resources/images/img-mission-background.jpg");
 }
+
+#mission .overlay {
+    /* Box Model */
+    width: 100%;
+    padding: 1rem;
+
+    /* Background */
+    background-color: black;
+}
