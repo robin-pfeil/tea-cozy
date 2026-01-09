@@ -17,6 +17,14 @@ main {
     margin-top: 69px;
 }
 
+/* Layout */
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 /* === Typography === */
 
