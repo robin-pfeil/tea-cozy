@@ -147,6 +147,14 @@ footer address {
     height: 200px;
 }
 
+#copyright {
+    /* Box Model */
+    margin: 20px 30px;
+
+    /* Typography */
+    text-align: left;
+}
+
 
 /* === Card Container === */
 
