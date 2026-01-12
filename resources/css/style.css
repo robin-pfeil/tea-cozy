@@ -24,9 +24,6 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.flex-gap {
     gap: 1rem;
 }
 
