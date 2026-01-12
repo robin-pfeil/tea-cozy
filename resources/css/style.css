@@ -118,6 +118,18 @@ header nav ul li a {
 }
 
 
+/* === Locations Section === */
+
+#locations {
+    /* Box Model */
+    width: 100%;
+    height: 500px;
+
+    /* Background */
+    background-image: url("../images/img-locations-background.jpg");
+}
+
+
 /* === Card Container === */
 
 .card-container {
