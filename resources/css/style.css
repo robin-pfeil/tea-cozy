@@ -114,3 +114,7 @@ header nav ul li a {
     height: 200px;
     width: 300px;
 }
+
+.card h3 {
+    margin-top: 10px;
+}
