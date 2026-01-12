@@ -14,7 +14,10 @@ body {
 }
 
 main {
+    /* Box Model */
+    margin-inline: auto;
     margin-top: 69px;
+    width: 1200px;
 }
 
 main.flex-col {
