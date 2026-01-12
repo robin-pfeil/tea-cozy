@@ -110,6 +110,18 @@ header nav ul li a {
 
 /* === Card Container === */
 
+.card-container {
+    /* Layout */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+
+    /* Box Model */
+    margin-top: 1rem;
+}
+
 .card img {
     height: 200px;
     width: 300px;
