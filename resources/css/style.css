@@ -138,7 +138,7 @@ header nav ul li a {
 
 .card img {
     height: 200px;
-    width: 300px;
+    width: 100%;
 }
 
 .card h3 {
