@@ -108,6 +108,13 @@ header nav ul li a {
 }
 
 
+/* === Featured Tea Section === */
+
+#featured-tea {
+    width: 1000px;
+}
+
+
 /* === Card Container === */
 
 .card-container {
