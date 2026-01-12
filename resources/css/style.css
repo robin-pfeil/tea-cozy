@@ -129,7 +129,11 @@ header nav ul li a {
     gap: 1.5rem;
 
     /* Box Model */
-    margin-top: 1rem;
+    margin-top: 15px;
+}
+
+.card {
+    width: 300px;
 }
 
 .card img {
