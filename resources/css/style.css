@@ -34,6 +34,12 @@ main.flex-col {
     gap: 1rem;
 }
 
+/* Background */
+
+.overlay {
+    background-color: black;
+}
+
 
 /* === Typography === */
 
@@ -105,9 +111,6 @@ header nav ul li a {
     /* Box Model */
     width: 100%;
     padding: 1rem;
-
-    /* Background */
-    background-color: black;
 }
 
 
