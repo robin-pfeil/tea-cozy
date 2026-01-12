@@ -163,3 +163,11 @@ header nav ul li a {
 .card img+h3 {
     margin-top: 10px;
 }
+
+address.card {
+    /* Layout */
+    gap: 40px;
+
+    /* Box Model */
+    padding-block: 30px;
+}
