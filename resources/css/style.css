@@ -124,6 +124,10 @@ header nav ul li a {
     width: 1000px;
 }
 
+#featured-tea .card-container {
+    margin-top: 20px;
+}
+
 
 /* === Locations Section === */
 
@@ -146,9 +150,6 @@ header nav ul li a {
     align-items: center;
     flex-wrap: wrap;
     gap: 1.5rem;
-
-    /* Box Model */
-    margin-top: 15px;
 }
 
 .card {
