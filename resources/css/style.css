@@ -31,7 +31,7 @@ main.flex-col {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 1rem;
+    gap: 15px;
 }
 
 /* Background */
