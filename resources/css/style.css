@@ -150,6 +150,18 @@ footer address {
     height: 200px;
 }
 
+footer address.flex-col {
+    justify-content: flex-start;
+}
+
+footer address h3 {
+    margin: 20px;
+}
+
+footer address h5 {
+    margin: 5px 0;
+}
+
 #copyright {
     /* Box Model */
     margin: 20px 30px;
