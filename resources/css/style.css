@@ -141,6 +141,13 @@ header nav ul li a {
 }
 
 
+/* === Footer === */
+
+footer address {
+    height: 200px;
+}
+
+
 /* === Card Container === */
 
 .card-container {
