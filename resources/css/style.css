@@ -50,6 +50,10 @@ body {
     color: seashell;
 }
 
+address {
+    font-style: normal;
+}
+
 
 /* === Header === */
 
